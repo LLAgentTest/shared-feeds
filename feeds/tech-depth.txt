@@ -1,0 +1,13 @@
+# Deep technical blogs — high signal, low noise
+https://simonwillison.net/atom/everything/
+https://xeiaso.net/blog.rss
+https://rachelbythebay.com/w/atom.xml
+https://gwern.substack.com/feed
+http://antirez.com/rss
+https://matklad.github.io/feed.xml
+https://eli.thegreenplace.net/feeds/all.atom.xml
+https://mitchellh.com/feed.xml
+https://lucumr.pocoo.org/feed.atom
+https://computer.rip/rss.xml
+https://bernsteinbear.com/feed.xml
+https://fabiensanglard.net/rss.xml

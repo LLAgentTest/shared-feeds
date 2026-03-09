@@ -1,0 +1,4 @@
+# Security — low frequency, high importance
+https://krebsonsecurity.com/feed/
+https://www.troyhunt.com/rss/
+https://lcamtuf.substack.com/feed
