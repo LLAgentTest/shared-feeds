@@ -1,0 +1,3 @@
+startup|founder|funding|seed|series.a|series.b|venture|vc|investor
+product.market.fit|pmf|go.to.market|gtm|distribution|growth|launch|traction
+saas|acquisition|demo.day|y.combinator|portfolio|benchmark|sales
