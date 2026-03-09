@@ -1,9 +1,9 @@
 # VC / startup / investment perspective
-https://a16z.com/feed/
-https://blog.ycombinator.com/feed/
-https://review.firstround.com/feed.xml
-https://feld.com/feed
-https://news.greylock.com/feed
-https://www.nfx.com/post/rss.xml
-https://www.dwarkeshpatel.com/feed
-https://steveblank.com/feed/
+https://www.ycombinator.com/blog/feed
+https://avc.com/feed/
+https://feld.com/feed/
+https://future.com/feed/
+https://lsvp.com/feed/
+https://www.sequoiacap.com/feed/
+https://firstmark.com/feed/
+https://www.saastr.com/feed/
